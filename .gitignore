@@ -3,3 +3,9 @@ dist
 BKP
 3dtour-private
 3dtour.crt
+
+3dtour-*
+*.key
+*.crt
+*.pem
+*.pfx
